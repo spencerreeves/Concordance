@@ -56,4 +56,4 @@ There are two test suites and 8 test files.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License.
