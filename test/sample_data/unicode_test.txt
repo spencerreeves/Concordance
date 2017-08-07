@@ -1,0 +1,13 @@
+Standard Unicode Test:
+
+“Ahh!”, Another UTF-8 encoded document.
+
+ワニは。怖いですね。
+
+1𐊁𐊂𐊃𐊄𐊅𐊆𐊇𐊈𐊉𐊊𐊋𐊌𐊍𐊎𐊏
+!2𐊂𐊃𐊄𐊅,”?
+2𐊂𐊃𐊄𐊅 3𐊅𐊆𐊇𐊈𐊉!
+2𐊂𐊃𐊄𐊅 3𐊅𐊆𐊇𐊈𐊉 1𐊁𐊂𐊃𐊄𐊅𐊆𐊇𐊈𐊉𐊊𐊋𐊌𐊍𐊎𐊏
+
+
+
